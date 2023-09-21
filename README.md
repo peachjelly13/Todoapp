@@ -1,2 +1,2 @@
 # Todoapp
-A very plain todo application
+A very basic todo application
